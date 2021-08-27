@@ -1,5 +1,5 @@
 # Windows11 RDP
-Ücretsiz Windows 11 RDP (1 SAAT) - orijinal yazar: Thuonghai001
+Ücretsiz Windows 11 RDP (1 SAAT)
 
 <img src="https://i.imgur.com/1QZfKzC.png" width="500" />
 
