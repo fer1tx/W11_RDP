@@ -27,7 +27,7 @@
 - You can now login with **User** and **Password**.
 
 ## CREDITS:
-Orijinal yazar: Thuonghai001
+original author: Thuonghai001
 
 Transator : Fer1tx
 
@@ -63,7 +63,7 @@ Github repo: https://github.com/fer1tx/W11_RDP/
 ## CREDITS:
 Orijinal yazar: Thuonghai001
 
-Translator : Fer1tx
+Çevirmen : Fer1tx
 
 Github repo: https://github.com/fer1tx
 
