@@ -28,4 +28,4 @@ echo User: Administrator
 echo Password: Thuonghai001
 echo Script by fb.com/thuong.hai.581
 echo Wait 2-4m VM boot up before connect. 
-echo Do not close Katacoda tab. VM expired in 1 hour.
+echo Do not close Katacoda tab. VM expired in 1 hour. [Fer1tx]
