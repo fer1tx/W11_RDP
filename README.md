@@ -61,9 +61,7 @@ Github repo: https://github.com/fer1tx/W11_RDP/
 - Artık **Kullanıcı** ve **Şifre** ile giriş yapabilirsiniz.
 
 ## CREDITS:
-Orijinal yazar: Thuonghai001
-
-Çevirmen : Fer1tx
+Fer1tx
 
 Github repo: https://github.com/fer1tx
 
