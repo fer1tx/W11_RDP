@@ -27,9 +27,7 @@
 - You can now login with **User** and **Password**.
 
 ## CREDITS:
-original author: Thuonghai001
-
-Transator : Fer1tx
+original author: Fer1tx
 
 Github repo: https://github.com/fer1tx/W11_RDP/
 
